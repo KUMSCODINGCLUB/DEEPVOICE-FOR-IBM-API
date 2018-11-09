@@ -1,11 +1,6 @@
 # Multi-Speaker Tacotron in TensorFlow
 
 
-Samples audios (in Korean) can be found [here](http://carpedm20.github.io/tacotron/en.html).
-
-![model](./assets/model.png)
-
-
 ## Prerequisites
 
 - Python 3.6+
